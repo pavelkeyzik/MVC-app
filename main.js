@@ -1,5 +1,3 @@
-'use strict';
-
 var userModel = new UserModel();
 var userView = new UserView();
 
